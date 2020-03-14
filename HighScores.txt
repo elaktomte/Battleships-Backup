@@ -1,0 +1,5 @@
+OSTEN,60
+Kalle,63
+Olle,67
+Muffins,70
+Nisse,71
